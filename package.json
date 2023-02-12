@@ -1,0 +1,15 @@
+{
+  "name": "m3-dataformat",
+  "version": "1.0.0",
+  "description": "Module 3 Assignment: Data Format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trey Klundt - tklundt@asu.edu",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
